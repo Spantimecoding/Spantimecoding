@@ -2,4 +2,4 @@
 - 👀 I’m interested in programming and computer science
 - 🌱 I’m currently learning python for now
 - 💞️ I’m looking to collaborate on python and other projects
-- 📫 Reach me at 1spandanen24564@gmail.com
+- 📫 Reach me at 1spandansen24564@gmail.com
